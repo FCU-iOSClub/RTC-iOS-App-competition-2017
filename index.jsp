@@ -146,7 +146,7 @@
             				</div>
             				<div id="collapseFour" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headinFour">
             					<div class="panel-body">
-            						<img class="img-responsive" alt="2017 APP 移動應用創新賽決賽結果公布" src="/img/20170718.jpg">
+            						<img class="img-responsive" alt="2017 APP 移動應用創新賽決賽結果公布" src="./img/20170718.jpg">
             					</div>
             				</div>
             			</div>
@@ -163,7 +163,7 @@
             				</div>
             				<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
             					<div class="panel-body">
-            						<img align="center" class="img-responsive" alt="2017 APP 移動應用創新賽7/18(二)議程" src="/img/20170718.png">
+            						<img align="center" class="img-responsive" alt="2017 APP 移動應用創新賽7/18(二)議程" src="./img/20170718.png">
             					</div>
             				</div>
             			</div>
@@ -180,7 +180,7 @@
             				</div>
             				<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
             					<div class="panel-body">
-            						<img class="img-responsive" alt="2017 APP 移動應用創新賽初審結果公布" src="/img/20170608.jpg">
+            						<img class="img-responsive" alt="2017 APP 移動應用創新賽初審結果公布" src="./img/20170608.jpg">
             					</div>
             				</div>
             			</div>
@@ -197,7 +197,7 @@
             				</div>
             				<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
             					<div class="panel-body">
-            						<img class="img-responsive" alt="2017 APP 移動應用創新賽 - 北區沙龍座談活動" src="/img/activity1.jpg">
+            						<img class="img-responsive" alt="2017 APP 移動應用創新賽 - 北區沙龍座談活動" src="./img/activity1.jpg">
             						<br>
             						<p>2017 APP 移動應用創新賽 - 北區沙龍座談活動，在 3/29 於國立臺灣師範大學舉辦，邀請業界專家分享，製作 iOS APP 的訣竅與心路歷程。</p>
             					</div>
@@ -653,39 +653,39 @@
             <div class="row text-center">
                 <div class="col-lg-4">
                 	<a href="http://www.myvita.com.tw">
-                		<img class="img-responsive" alt="中保無限家" src="/img/Sigmu.png">
+                		<img class="img-responsive" alt="中保無限家" src="./img/Sigmu.png">
                 	</a>
                 </div>
                 <div class="col-lg-4 litenet">
                 	<a href="http://www.myvita.com.tw">
-                		<img class="img-responsive" alt="Litenet" src="/img/Litenet.png">
+                		<img class="img-responsive" alt="Litenet" src="./img/Litenet.png">
                 	</a>
                 </div>
                 <div class="col-lg-4 studioa">
                 	<a href="http://www.studioa.com.tw">
-                		<img class="img-responsive" alt="StudioA" src="/img/StudioA.png">
+                		<img class="img-responsive" alt="StudioA" src="./img/StudioA.png">
                 	</a>
                 </div>
             </div>
             <div class="row text-center smallImg">
                 <div class="col-lg-3">
                 	<a href="http://www.foracare.com.tw">
-                		<img class="img-responsive" alt="FORA" src="/img/Fora.png">
+                		<img class="img-responsive" alt="FORA" src="./img/Fora.png">
                 	</a>
                 </div>
                 <div class="col-lg-3">
                 	<a href="http://www.opro9.com/">
-                		<img class="img-responsive" alt="Opro9" src="/img/Opro9.png">
+                		<img class="img-responsive" alt="Opro9" src="./img/Opro9.png">
                 	</a>
                 </div>
                 <div class="col-lg-3">
                 	<a href="http://www.qblinks.com">
-                		<img class="img-responsive" alt="Qblinks" src="/img/Qblinks.png">
+                		<img class="img-responsive" alt="Qblinks" src="./img/Qblinks.png">
                 	</a>
                 </div>
                 <div class="col-lg-3">
                 	<a href="http://www.atomaxinc.com">
-                		<img class="img-responsive" alt="Atomax" src="/img/Atomax.png">
+                		<img class="img-responsive" alt="Atomax" src="./img/Atomax.png">
                 	</a>
                 </div>
             </div>
