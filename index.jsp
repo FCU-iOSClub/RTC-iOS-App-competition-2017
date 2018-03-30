@@ -61,7 +61,6 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll"> <a href="#news">最新消息</a> </li>
-                    <li> <a href="login.jsp">上傳入口</a></li>
                     <!-- Single button -->
                     <li>
                         <div class="dropdown">
